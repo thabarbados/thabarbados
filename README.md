@@ -2,6 +2,6 @@
 
 Hey 👋 I'm Slava. 
 I work at [Cube](https://cube.dev?ref=eco-readme) where we create developer tools for building data apps and contribute to the open source ecosystem. Here are just a few tools we maintain and/or contribute to:
-* [Chart.js](https://github.com/chartjs/Chart.js) data visualization library and its [React](https://github.com/reactchartjs/react-chartjs-2) and [Vue](https://github.com/apertureless/vue-chartjs) integrations. 
+* [Chart.js](https://github.com/chartjs/Chart.js) data visualization library and its [React](https://github.com/reactchartjs/react-chartjs-2), [Vue](https://github.com/apertureless/vue-chartjs) and [Svelte](https://github.com/SauravKanchan/svelte-chartjs) integrations. 
 * [Google Charts](https://developers.google.com/chart) data visualization service and its [React](https://github.com/rakannimer/react-google-charts) and [Vue](https://github.com/devstark-com/vue-google-charts) integrations. 
 * [Chartist](https://github.com/chartist-js/chartist) data visualization library. 
