@@ -3,6 +3,5 @@ I'm a Frontend developer.
 
 I'm open to work now. 👨🏼‍💻
 
-CV - https://resume.io/r/wJFCUmLgH
-
-https://www.linkedin.com/in/vyacheslav-terekhov/
+CV - [ENG](https://resume.io/r/7IYZw9bfp) [РУ](https://resume.io/r/wJFCUmLgH)
+[LINKEDIN](https://www.linkedin.com/in/slava-terekhov/)
